@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background: fixed;
+    background-color: aqua;
+    border: 0cap;
+    border-bottom: 0cap;
+
+  }
+  #wall .tag-2{
+    top: 1;
+    left: 1;
+    background: fixed;
+    background-color: blueviolet;
+    bottom: 1;
+    display: block;
+
+  }
